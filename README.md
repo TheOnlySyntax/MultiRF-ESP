@@ -1,4 +1,4 @@
-# MultiRF Marauder: Universal Radio Hacking and Analysis Tool
+# MultiRF ESP: Universal Radio Hacking and Analysis Tool
 
 **MultiRF Marauder** is an all-in-one tool designed for analyzing and testing radio networks. With support for multiple frequency bands, including Wi-Fi, Bluetooth, and sub-GHz, this device is ideal for **ethical hacking**, **penetration testing**, and **radio frequency analysis**.
 
