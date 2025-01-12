@@ -33,16 +33,16 @@
 
 ## Hardware Components
 
-- **ESP32** (Main MCU for Wi-Fi and Bluetooth communication)  https://www.aliexpress.com/item/1005006273960276.html?
-- **CC1101** (Sub-GHz RF module)  https://www.aliexpress.com/item/1005006733128122.html?
-- **nRF24L01+** (2.4 GHz RF module) https://www.aliexpress.com/item/1005007279570381.html?
-- **OLED Display** (128x64, I2C/SPI) https://www.aliexpress.com/item/1005004355547926.html?
-- **Li-Po or 18650 Battery** (for portable power) https://www.aliexpress.com/item/1005008329783270.html?
-- **TP4056 Charging Module** (for battery charging) https://www.aliexpress.com/item/1005007636761568.html?
-- **AMS1117 Voltage Regulator** (for 3.3V regulation) https://www.aliexpress.com/item/1005007537334074.html?
-- **Buttons** (for navigation) https://www.aliexpress.com/item/32815969627.html?
-- **Battery Case** https://www.aliexpress.com/item/1005001707889794.html?
-- **Switch** https://www.aliexpress.com/item/32721440534.html?
+- **ESP32** (Main MCU for Wi-Fi and Bluetooth communication)  https://www.aliexpress.com/item/1005006273960276.html
+- **CC1101** (Sub-GHz RF module)  https://www.aliexpress.com/item/1005006733128122.html
+- **nRF24L01+** (2.4 GHz RF module) https://www.aliexpress.com/item/1005007279570381.html
+- **OLED Display** (128x64, I2C/SPI) https://www.aliexpress.com/item/1005004355547926.html
+- **Li-Po or 18650 Battery** (for portable power) https://www.aliexpress.com/item/1005008329783270.html
+- **TP4056 Charging Module** (for battery charging) https://www.aliexpress.com/item/1005007636761568.html
+- **AMS1117 Voltage Regulator** (for 3.3V regulation) https://www.aliexpress.com/item/1005007537334074.html
+- **Buttons** (for navigation) https://www.aliexpress.com/item/32815969627.html
+- **Battery Case** https://www.aliexpress.com/item/1005001707889794.html
+- **Switch** https://www.aliexpress.com/item/32721440534.html
 
 ## Installation
 
