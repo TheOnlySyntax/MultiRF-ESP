@@ -33,16 +33,16 @@
 
 ## Hardware Components
 
-- **ESP32** (Main MCU for Wi-Fi and Bluetooth communication)  https://www.aliexpress.com/item/1005006273960276.html?spm=a2g0o.cart.0.0.687738dah8S2Vh&mp=1
-- **CC1101** (Sub-GHz RF module)  https://www.aliexpress.com/item/1005006733128122.html?spm=a2g0o.cart.0.0.687738dah8S2Vh&mp=1
-- **nRF24L01+** (2.4 GHz RF module) https://www.aliexpress.com/item/1005007279570381.html?spm=a2g0o.cart.0.0.2c3138daBZoOZ5&mp=1
-- **OLED Display** (128x64, I2C/SPI) https://www.aliexpress.com/item/1005004355547926.html?spm=a2g0o.detail.0.0.3429kDeZkDeZmX&mp=1&pdp_ext_f=%7B"
-- **Li-Po or 18650 Battery** (for portable power) https://www.aliexpress.com/item/1005008329783270.html?spm=a2g0o.detail.0.0.2b63Dc7YDc7YGI&mp=1
-- **TP4056 Charging Module** (for battery charging) https://www.aliexpress.com/item/1005007636761568.html?spm=a2g0o.cart.0.0.343d38dalvMmiz&mp=1
-- **AMS1117 Voltage Regulator** (for 3.3V regulation) https://www.aliexpress.com/item/1005007537334074.html?spm=a2g0o.cart.0.0.343d38dalvMmiz&mp=1
-- **Buttons** (for navigation) https://www.aliexpress.com/item/32815969627.html?spm=a2g0o.cart.0.0.343d38dalvMmiz&mp=1&pdp_ext_f=%7B"
-- **Battery Case** https://www.aliexpress.com/item/1005001707889794.html?spm=a2g0o.cart.0.0.343d38dalvMmiz&mp=1&pdp_ext_f=%7B"
-- **Switch** https://www.aliexpress.com/item/32721440534.html?spm=a2g0o.detail.0.0.2af6hIwuhIwuSo&mp=1&pdp_ext_f=%7B"
+- **ESP32** (Main MCU for Wi-Fi and Bluetooth communication)  https://www.aliexpress.com/item/1005006273960276.html?
+- **CC1101** (Sub-GHz RF module)  https://www.aliexpress.com/item/1005006733128122.html?
+- **nRF24L01+** (2.4 GHz RF module) https://www.aliexpress.com/item/1005007279570381.html?
+- **OLED Display** (128x64, I2C/SPI) https://www.aliexpress.com/item/1005004355547926.html?
+- **Li-Po or 18650 Battery** (for portable power) https://www.aliexpress.com/item/1005008329783270.html?
+- **TP4056 Charging Module** (for battery charging) https://www.aliexpress.com/item/1005007636761568.html?
+- **AMS1117 Voltage Regulator** (for 3.3V regulation) https://www.aliexpress.com/item/1005007537334074.html?
+- **Buttons** (for navigation) https://www.aliexpress.com/item/32815969627.html?
+- **Battery Case** https://www.aliexpress.com/item/1005001707889794.html?
+- **Switch** https://www.aliexpress.com/item/32721440534.html?
 
 ## Installation
 
